@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\bin\Debug\net7.0\clase05-pe-Cintia-Alvardo.exe
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\bin\Debug\net7.0\clase05-pe-Cintia-Alvardo.deps.json
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\bin\Debug\net7.0\clase05-pe-Cintia-Alvardo.runtimeconfig.json
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\bin\Debug\net7.0\clase05-pe-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\bin\Debug\net7.0\clase05-pe-Cintia-Alvardo.pdb
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\clase05-pe-Cintia-Alvardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\clase05-pe-Cintia-Alvardo.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\clase05-pe-Cintia-Alvardo.AssemblyInfo.cs
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\clase05-pe-Cintia-Alvardo.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\clase05-pe-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\refint\clase05-pe-Cintia-Alvardo.dll
+C:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\clase05-pe-Cintia-Alvardo.pdb
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\clase05-pe-Cintia-Alvardo.genruntimeconfig.cache
+c:\Users\MINEDUCYT\OneDrive - Ministerio de Educación, Gobierno de El Salvador\Documents\Clase N°5(13-08-2023)\clase05-pe-Cintia-Alvardo\obj\Debug\net7.0\ref\clase05-pe-Cintia-Alvardo.dll
